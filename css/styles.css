@@ -2,6 +2,11 @@ h1, h2, h4 {
     font-family: 'Crimson Text', serif;
 }
 
-p {
+p, ol {
     font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.bio-image {
+    width: 374.5px;
+    
 }
