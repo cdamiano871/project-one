@@ -1,5 +1,6 @@
 h1, h2, h4 {
     font-family: 'Crimson Text', serif;
+    text-align: center;
 }
 
 p, ol {
@@ -7,6 +8,8 @@ p, ol {
 }
 
 .bio-image {
-    width: 374.5px;
-    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
 }
