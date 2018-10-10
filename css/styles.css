@@ -9,15 +9,17 @@ p, ol {
 
 .bio-image {
     display: block;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 60%;
 }
 
-#image {
-    
+.image {
+    float: right;
 }
 
-#bio {
-    
+.bio {
+    margin-top: 50px;
+    margin-left: 80px;
 }
